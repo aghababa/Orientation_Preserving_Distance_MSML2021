@@ -6,4 +6,4 @@ Here is the Python codes (both in .py and .ipynb) for my joint paper with Jeff P
 
 For running some of codes you will need the "Car and Bus dataset" which is available in csv format in this repository inside the folder named Data.
 
-Note that since there are some randomness in algorithms or train/test split, the results in Table 1 of the paper can differ slightly.
+Note that since there are some randomness in algorithms or train-test split, the results in Table 1 of the paper can differ slightly.
