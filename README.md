@@ -2,8 +2,12 @@
 
 ## Orientation-Preserving Vectorized Distance Between Curves
 
-Here is the Python codes (both in .py and .ipynb) for my joint paper with Jeff Phillips entitled "Orientation-Preserving Vectorized Distance Between Curves". The ipynb format can be run easily on google colab. 
+Here is the Python codes (both in .py and .ipynb) for my joint paper with Jeff Phillips entitled "Orientation-Preserving Vectorized Distance Between Curves". The ipynb formats can be run easily on google colab or Jupyter Notebook. 
 
-For running some of codes you will need the "Car and Bus dataset" which is available in csv format in this repository inside the folder named Data.
+We remark that since there are some randomness in algorithms or train-test split, the results in Table 1 of the paper can differ slightly.
 
-Note that since there are some randomness in algorithms or train-test split, the results in Table 1 of the paper can differ slightly.
+## Datasets
+
+The Car-Bus dataset is available for public in csv format in the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories.
+
+The pigeons flight path dataset is available for public as supplementary material of a paper published in The Royal Society Publishing: https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2013.0885.
