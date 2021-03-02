@@ -2,7 +2,7 @@
 
 ## Orientation-Preserving Vectorized Distance Between Curves
 
-Here is the Python codes (both in .py and .ipynb) for my joint paper with Jeff Phillips entitled "Orientation-Preserving Vectorized Distance Between Curves". The ipynb formats can be run easily on google colab or Jupyter Notebook. 
+Here is the Python codes (both in .py and .ipynb) for my joint paper with Jeff Phillips entitled "Orientation-Preserving Vectorized Distance Between Curves". The .ipynb formats can be run easily on google colab or Jupyter Notebook. 
 
 We remark that since there are some randomness in algorithms or train-test split, the results in Table 1 of the paper can differ slightly.
 
